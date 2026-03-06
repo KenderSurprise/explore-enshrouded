@@ -2,6 +2,3 @@ baseURL = "https://explore-enshrouded.netlify.app/"
 languageCode = "fr-fr"
 title = "Explore Enshrouded"
 theme = "ananke"
-[module]
-  [[module.imports]]
-    path = "github.com/theNewDynamic/gohugo-theme-ananke"
