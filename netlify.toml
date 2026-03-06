@@ -2,6 +2,5 @@
   publish = "public"
   command = "hugo"
 
-[build.environment]
-  HUGO_VERSION = "0.113.3"
-  HUGO_ENV = "production"
+# Hugo sera installé automatiquement en dernière version stable compatible
+# Pas besoin de spécifier HUGO_VERSION si tu veux laisser Netlify choisir
