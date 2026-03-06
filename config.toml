@@ -1,0 +1,4 @@
+baseURL = "https://explore-enshrouded.netlify.app/"
+languageCode = "fr-fr"
+title = "Explore Enshrouded"
+theme = "ananke"
